@@ -1,0 +1,12 @@
+receptor = ACVR1_G325A.pdbqt
+ligand = 3Q4U_LDN.pdbqt
+
+center_x = 6.3645
+center_y = 15.3849
+center_z = 19.7932
+
+size_x = 25
+size_y = 25
+size_z = 25
+
+energy_range = 4

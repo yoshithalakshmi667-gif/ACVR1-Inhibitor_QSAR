@@ -1,0 +1,54 @@
+CRYST1   83.688  138.255   59.934  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  CAA A3F A   1     -16.959 -18.375  40.913  1.00 15.17           C  
+HETATM    2  CAB A3F A   1     -21.174 -14.730  36.267  1.00 19.30           C  
+HETATM    3  CAC A3F A   1     -20.230 -19.007  37.500  1.00 15.99           C  
+HETATM    4  CAF A3F A   1     -16.152  -7.994  39.556  1.00 24.54           C  
+HETATM    5  CAG A3F A   1     -17.377  -7.581  39.037  1.00 18.86           C  
+HETATM    6  CAH A3F A   1     -15.716  -9.320  39.419  1.00 21.74           C  
+HETATM    7  CAI A3F A   1     -14.820 -11.852  38.200  1.00 10.68           C  
+HETATM    8  CAJ A3F A   1     -17.730  -9.837  38.243  1.00 21.55           C  
+HETATM    9  CAK A3F A   1     -17.333 -16.154  39.068  1.00 18.44           C  
+HETATM   10  CAL A3F A   1     -18.773 -14.925  37.598  1.00 19.26           C  
+HETATM   11  CAM A3F A   1     -17.052 -12.642  38.555  1.00 13.60           C  
+HETATM   12  CAR A3F A   1     -18.153  -8.525  38.375  1.00 26.22           C  
+HETATM   13  CAS A3F A   1     -15.299 -14.129  37.993  1.00 12.29           C  
+HETATM   14  CAT A3F A   1     -16.533 -10.258  38.794  1.00 17.20           C  
+HETATM   15  CAU A3F A   1     -16.132 -11.590  38.569  1.00 17.02           C  
+HETATM   16  CAV A3F A   1     -17.564 -15.019  38.285  1.00 18.07           C  
+HETATM   17  CAW A3F A   1     -18.262 -17.196  39.158  1.00 16.01           C  
+HETATM   18  CAX A3F A   1     -19.702 -15.955  37.664  1.00 18.71           C  
+HETATM   19  CAY A3F A   1     -16.638 -13.943  38.266  1.00 16.74           C  
+HETATM   20  CAZ A3F A   1     -19.454 -17.072  38.459  1.00 20.77           C  
+HETATM   21  NAD A3F A   1     -14.883 -15.340  37.641  1.00 13.79           N  
+HETATM   22  NAN A3F A   1     -14.458 -13.085  37.967  1.00 10.30           N  
+HETATM   23  OAE A3F A   1     -19.329  -8.169  37.803  1.00 23.33           O  
+HETATM   24  OAO A3F A   1     -18.039 -18.348  39.914  1.00 22.52           O  
+HETATM   25  OAP A3F A   1     -20.878 -15.937  36.984  1.00 20.26           O  
+HETATM   26  OAQ A3F A   1     -20.408 -18.041  38.521  1.00 16.88           O  
+CONECT    1   24
+CONECT    2   25
+CONECT    3   26
+CONECT    4    5    6
+CONECT    5    4   12
+CONECT    6    4   14
+CONECT    7   15   22
+CONECT    8   12   14
+CONECT    9   16   17
+CONECT   10   16   18
+CONECT   11   15   19
+CONECT   12    5    8   23
+CONECT   13   19   21   22
+CONECT   14    6    8   15
+CONECT   15    7   11   14
+CONECT   16    9   10   19
+CONECT   17    9   20   24
+CONECT   18   10   20   25
+CONECT   19   11   13   16
+CONECT   20   17   18   26
+CONECT   21   13
+CONECT   22    7   13
+CONECT   23   12
+CONECT   24    1   17
+CONECT   25    2   18
+CONECT   26    3   20
+END

@@ -1,0 +1,48 @@
+CRYST1   57.800   81.860  140.390  90.00  90.00  90.00 C 2 2 21      1
+HETATM    1  CAA IYZ A 503      -8.379 -20.347  17.172  1.00 32.89           C  
+HETATM    2  CAC IYZ A 503      -5.682 -23.376  20.190  1.00 27.21           C  
+HETATM    3  CAD IYZ A 503      -6.177 -22.091  19.874  1.00 26.17           C  
+HETATM    4  CAE IYZ A 503      -5.732 -24.410  19.236  1.00 25.41           C  
+HETATM    5  CAF IYZ A 503      -5.661 -24.972  12.942  1.00 25.71           C  
+HETATM    6  CAG IYZ A 503      -5.927 -26.142  13.615  1.00 25.22           C  
+HETATM    7  CAH IYZ A 503      -6.523 -26.469  17.117  1.00 24.68           C  
+HETATM    8  CAI IYZ A 503      -6.731 -22.856  17.681  1.00 27.62           C  
+HETATM    9  CAJ IYZ A 503      -6.368 -19.302  14.081  1.00 36.40           C  
+HETATM   10  CAK IYZ A 503      -6.830 -19.984  12.804  1.00 36.05           C  
+HETATM   11  CAL IYZ A 503      -4.888 -21.426  13.831  1.00 35.67           C  
+HETATM   12  CAP IYZ A 503      -7.281 -20.434  18.226  1.00 33.10           C  
+HETATM   13  CAQ IYZ A 503      -6.699 -21.834  18.613  1.00 27.69           C  
+HETATM   14  CAR IYZ A 503      -6.285 -24.149  17.972  1.00 25.74           C  
+HETATM   15  CAS IYZ A 503      -5.616 -23.785  13.686  1.00 29.99           C  
+HETATM   16  CAT IYZ A 503      -6.318 -25.143  16.994  1.00 24.90           C  
+HETATM   17  CAU IYZ A 503      -6.154 -26.101  14.987  1.00 25.56           C  
+HETATM   18  CAV IYZ A 503      -5.355 -20.090  13.215  1.00 36.45           C  
+HETATM   19  NAM IYZ A 503      -6.457 -27.030  15.902  1.00 23.72           N  
+HETATM   20  NAN IYZ A 503      -5.827 -23.830  15.024  1.00 29.87           N  
+HETATM   21  NAO IYZ A 503      -5.374 -22.592  13.087  1.00 30.90           N  
+HETATM   22  NAW IYZ A 503      -6.096 -24.872  15.643  1.00 26.53           N  
+HETATM   23  OAB IYZ A 503      -6.920 -19.398  18.790  1.00 38.38           O  
+CONECT    1   12
+CONECT    2    3    4
+CONECT    3    2   13
+CONECT    4    2   14
+CONECT    5    6   15
+CONECT    6    5   17
+CONECT    7   16   19
+CONECT    8   13   14
+CONECT    9   10   18
+CONECT   10    9   18
+CONECT   11   21   18
+CONECT   12    1   23   13
+CONECT   13    3    8   12
+CONECT   14    4    8   16
+CONECT   15    5   20   21
+CONECT   16    7   14   22
+CONECT   17    6   19   22
+CONECT   18    9   10   11
+CONECT   19   17    7
+CONECT   20   15   22
+CONECT   21   11   15
+CONECT   22   20   16   17
+CONECT   23   12
+END
